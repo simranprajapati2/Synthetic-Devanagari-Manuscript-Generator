@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Synthetic Devanagari Manuscript Generator
 
 A Python-based project for generating synthetic **Devanagari manuscript-style images** with realistic paper aging, ink variation, stains, fading, and other document effects.
@@ -116,3 +117,6 @@ Indic script recognition
 Current Scope
 
 The current version supports Devanagari only. The architecture can be extended to other Indic scripts in the future.
+=======
+# Synthetic-Devanagari-Manuscript-Generator
+>>>>>>> a9158f8f0473261e48cc88c6b39eda5a24a165da
