@@ -1,0 +1,6 @@
+Pillow
+numpy
+datasets
+huggingface_hub
+PyYAML
+tqdm
